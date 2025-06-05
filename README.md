@@ -13,13 +13,32 @@
 ---
 
 ## 🔧 Areas of Expertise
+## 🔧 Areas of Expertise
 
-- 🚀 **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible  
-- ⚡ **HPC:** Slurm job scheduling, performance optimization  
-- 📈 **Monitoring:** Prometheus, Grafana  
-- 💾 **Storage:** NFS, SMB, Lustre, Ceph  
-- 💻 **Languages:** Python, Java  
-- 🔧 **Tools:** Git, Linux, Shell scripting  
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
+
+**HPC**  
+Slurm job scheduling, performance optimization
+
+**Monitoring**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
+
+**Storage**  
+NFS, SMB, Lustre, Ceph  
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+
+**Tools**  
+Git, Linux, Shell scripting
 
 ---
 
