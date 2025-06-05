@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Ashutosh Gangurde 👨‍💻</h1>
 <p align="center">
-  <img src="https://your-typing-gif-url.gif" alt="Typing animation" width="300" />
+  <img src="https://raw.githubusercontent.com/ASHUTOSH-SG/ASHUTOSH-SG/main/assets/typing.gif" alt="Typing animation" width="300" />
 </p>
 
+<h1 align="center">Hi, I'm Ashutosh Gangurde 👨‍💻</h1>
 <p align="center">
   Project Engineer at C-DAC Pune | HPC | DevOps | Cloud | Monitoring  
 </p>
