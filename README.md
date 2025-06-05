@@ -29,7 +29,7 @@ I’m an Information Technology graduate with a Post Graduate Diploma in HPC Sys
 
 | Project | Description | Tech/Language |
 |---------|-------------|---------------|
-| [HPC-Stack](https://github.com/ASHUTOSH-SG/HPC-Stack) | Slurm-powered Cloud HPC solution with GPU support and monitoring integration. | Slurm, HPC, Cloud, GPU |
+| [HPC-Stack](https://github.com/ASHUTOSH-SG/[HPC-Stack](https://github.com/ASHUTOSH-SG/HPC-Stack-A-Slurm-powered-Cloud-HPC-Solution-with-GPU-Support-on-Local-Machines.) | Slurm-powered Cloud HPC solution with GPU support and monitoring integration. | Slurm, HPC, Cloud, GPU |
 | [CDAC_HPC](https://github.com/ASHUTOSH-SG/CDAC_HPC) | Resources from PG Diploma: notes, scripts, labs, and MCQs for HPC System Administration. | Shell, HPC |
 | [NearNexusFrontEnd-REACT](https://github.com/ASHUTOSH-SG/NearNexusFrontEnd-REACT) | Responsive frontend for the NearNexus platform using React. | React, HTML, CSS |
 | [JS-Revision](https://github.com/ASHUTOSH-SG/JS-Revision) | Comprehensive JavaScript revision with practical projects. | JavaScript |
