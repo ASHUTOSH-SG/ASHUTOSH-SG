@@ -12,7 +12,6 @@
 
 ---
 
-
 ## 🔧 Areas of Expertise
 
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
@@ -51,4 +50,31 @@
 
 ---
 
-Explore my repositories and projects to learn more about my work.
+## 📂 Featured Projects
+
+| Project | Description | Language/Tech |
+|-|-|-|
+| [HPC-Stack](https://github.com/ASHUTOSH-SG/HPC-Stack-A-Slurm-powered-Cloud-HPC-Solution-with-GPU-Support-on-Local-Machines) | Slurm-powered Cloud HPC Solution with GPU Support on Local Machines | Slurm, HPC |
+| [CDAC_HPC](https://github.com/ASHUTOSH-SG/CDAC_HPC) | HPC-related scripts and tools | Shell |
+| [NearNexusFrontEnd-REACT](https://github.com/ASHUTOSH-SG/NearNexusFrontEnd-REACT) | Frontend project for NearNexus | React |
+| [JS-Revision](https://github.com/ASHUTOSH-SG/JS-Revision) | JavaScript revision examples and projects | JavaScript |
+| [Web-Scrapping](https://github.com/ASHUTOSH-SG/Web-Scrapping) | Automated web scraping tools | JavaScript |
+| [GuessMyNumber](https://github.com/ASHUTOSH-SG/GuessMyNumber) | Retro-styled number guessing game | JavaScript |
+
+---
+
+### 📈 Contribution Activity
+
+You can showcase your **contribution calendar** via GitHub’s own profile view, but embedding here isn’t supported well. Instead, link it:
+
+> Check out my [GitHub contributions](https://github.com/ASHUTOSH-SG) to see my latest activity.
+
+---
+
+**Feel free to explore my repositories and projects to learn more about my work.**
+
+---
+
+If you want, I can help you generate badges or add other professional touches like social links, or even automate project cards with GitHub Actions.
+
+Would you like that?
