@@ -29,11 +29,12 @@
 
 | Project | Description | Tech/Language |
 |---------|-------------|---------------|
-| [HPC-Stack](https://github.com/ASHUTOSH-SG/HPC-Stack-A-Slurm-powered-Cloud-HPC-Solution-with-GPU-Support-on-Local-Machines) | Slurm-powered Cloud HPC Solution with GPU Support on Local Machines | Slurm, HPC |
-| [CDAC_HPC](https://github.com/ASHUTOSH-SG/CDAC_HPC) | Enhanced during PG Diploma: includes resources, notes, scripts, and MCQs for HPC preparation | Shell |
-| [NearNexusFrontEnd-REACT](https://github.com/ASHUTOSH-SG/NearNexusFrontEnd-REACT) | Frontend project for NearNexus | React |
-| [JS-Revision](https://github.com/ASHUTOSH-SG/JS-Revision) | JavaScript revision projects | JavaScript |
-| [Web-Scrapping](https://github.com/ASHUTOSH-SG/Web-Scrapping) | Automated web scraping tools | JavaScript |
+| [HPC-Stack](https://github.com/ASHUTOSH-SG/HPC-Stack-A-Slurm-powered-Cloud-HPC-Solution-with-GPU-Support-on-Local-Machines) | Complete Slurm-powered Cloud HPC solution with GPU support, cloud integration, and monitoring. | Slurm, HPC, Cloud, GPU, Monitoring |
+| [CDAC_HPC](https://github.com/ASHUTOSH-SG/CDAC_HPC) | PG Diploma project: comprehensive resources including notes, scripts, MCQs, and labs for HPC system administration. | Shell, HPC |
+| [NearNexusFrontEnd-REACT](https://github.com/ASHUTOSH-SG/NearNexusFrontEnd-REACT) | Responsive frontend development for NearNexus platform using React. | React |
+| [JS-Revision](https://github.com/ASHUTOSH-SG/JS-Revision) | Detailed and fast-paced JavaScript revision with practical projects  | JavaScript |
+| [Web-Scrapping](https://github.com/ASHUTOSH-SG/Web-Scrapping) | Tools for automated web scraping and data extraction. | JavaScript |
+
 
 ---
 
