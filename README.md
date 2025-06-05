@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Ashutosh Gangurde 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F7CAC&center=true&vCenter=true&width=380&height=40&lines=Cloud+Engineer;HPC+Specialist;DevOps+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Project Engineer at C-DAC Pune | HPC | DevOps | Cloud | Monitoring
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3F7CAC&center=true&vCenter=true&width=600&height=40&lines=Project+Engineer+at+C-DAC+Pune;HPC;DevOps;Cloud;Monitoring" alt="Typing SVG" />
 </p>
 
 ---
