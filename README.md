@@ -15,32 +15,36 @@
 
 ## 🔧 Areas of Expertise
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
 
-<div>
-
-**Cloud & DevOps**  
-AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible
-
-**HPC**  
-Slurm job scheduling, performance optimization
-
-**Monitoring**  
-Prometheus, Grafana
-
+<div style="flex: 1 1 250px; background: #f0f8ff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #3F7CAC;">Cloud & DevOps</h3>
+  <p>AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible</p>
 </div>
 
-<div>
+<div style="flex: 1 1 250px; background: #f0f8ff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #3F7CAC;">High-Performance Computing</h3>
+  <p>Slurm job scheduling, Performance optimization</p>
+</div>
 
-**Storage**  
-NFS, SMB, Lustre, Ceph
+<div style="flex: 1 1 250px; background: #f0f8ff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #3F7CAC;">Monitoring</h3>
+  <p>Prometheus, Grafana</p>
+</div>
 
-**Languages**  
-Python, Java
+<div style="flex: 1 1 250px; background: #f0f8ff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #3F7CAC;">Storage Systems</h3>
+  <p>NFS, SMB, Lustre, Ceph</p>
+</div>
 
-**Tools**  
-Git, Linux, Shell scripting
+<div style="flex: 1 1 250px; background: #f0f8ff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #3F7CAC;">Languages</h3>
+  <p>Python, Java</p>
+</div>
 
+<div style="flex: 1 1 250px; background: #f0f8ff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #3F7CAC;">Tools</h3>
+  <p>Git, Linux, Shell scripting</p>
 </div>
 
 </div>
