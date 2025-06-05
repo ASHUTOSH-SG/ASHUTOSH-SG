@@ -15,36 +15,18 @@
 
 ## 🔧 Areas of Expertise
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <strong>☁️ Cloud & DevOps</strong><br>
-      AWS, Docker, Kubernetes,<br>Terraform, Jenkins, Ansible
-    </td>
-    <td align="center" width="200">
-      <strong>⚡ HPC</strong><br>
-      Slurm job scheduling,<br>Performance optimization
-    </td>
-    <td align="center" width="200">
-      <strong>📈 Monitoring</strong><br>
-      Prometheus, Grafana
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <strong>💾 Storage</strong><br>
-      NFS, SMB, Lustre, Ceph
-    </td>
-    <td align="center" width="200">
-      <strong>💻 Languages</strong><br>
-      Python, Java
-    </td>
-    <td align="center" width="200">
-      <strong>🔧 Tools</strong><br>
-      Git, Linux, Shell scripting
-    </td>
-  </tr>
-</table>
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+
+**HPC**  
+Slurm job scheduling, performance optimization
+
+**Monitoring**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) 
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
 ---
 
 Explore my repositories and projects to learn more about my work.
