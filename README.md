@@ -20,10 +20,10 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ASHUTOSH-SG&theme=github" alt="GitHub contribution graph" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-SG&show_icons=true&theme=github" alt="GitHub Stats" />
 </p>
 
 ---
