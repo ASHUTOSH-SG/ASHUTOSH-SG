@@ -8,34 +8,32 @@
 
 ---
 
-🎓 I’m an Information Technology graduate with a PG Diploma in HPC System Administration from C-DAC, Pune. Currently, I work as a Project Engineer at C-DAC Pune, focusing on Cloud Computing, AWS, DevOps, High-Performance Computing (HPC), and System Monitoring.
+I’m an Information Technology graduate with a Post Graduate Diploma in HPC System Administration from C-DAC, Pune. Currently, I work as a Project Engineer at C-DAC Pune, focusing on Cloud Computing, AWS, DevOps, High-Performance Computing (HPC), and System Monitoring.
 
 ---
 
-## 🔧 Areas of Expertise
+## Areas of Expertise
 
 | Area                    | Skills & Tools                           |
-|-------------------------|----------------------------------------|
-| **Cloud & DevOps**      | AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible |
-| **High-Performance Computing** | Slurm job scheduling, Performance optimization |
-| **Monitoring**          | Prometheus, Grafana                     |
-| **Storage Systems**     | NFS, SMB, Lustre, Ceph                  |
-| **Languages**           | Python, Java                           |
-| **Tools**               | Git, Linux, Shell scripting             |
+|-------------------------|------------------------------------------|
+| Cloud & DevOps          | AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible |
+| High-Performance Computing | Slurm job scheduling, Performance optimization |
+| Monitoring              | Prometheus, Grafana                     |
+| Storage Systems         | NFS, SMB, Lustre, Ceph                  |
+| Languages               | Python, Java                            |
+| Tools                   | Git, Linux, Shell scripting             |
 
 ---
 
-## 📂 Featured Projects
+## Highlighted Repositories
 
 | Project | Description | Tech/Language |
 |---------|-------------|---------------|
-| [HPC-Stack](https://github.com/ASHUTOSH-SG/HPC-Stack-A-Slurm-powered-Cloud-HPC-Solution-with-GPU-Support-on-Local-Machines) | Complete Slurm-powered Cloud HPC solution with GPU support, cloud integration, and monitoring. | Slurm, HPC, Cloud, GPU, Monitoring |
-| [CDAC_HPC](https://github.com/ASHUTOSH-SG/CDAC_HPC) | PG Diploma Resourses: comprehensive resources including notes, scripts, MCQs, and labs for HPC system administration. | Shell, HPC |
-| [NearNexusFrontEnd-REACT](https://github.com/ASHUTOSH-SG/NearNexusFrontEnd-REACT) | Responsive frontend development for NearNexus platform using React. | React |
-| [JS-Revision](https://github.com/ASHUTOSH-SG/JS-Revision) | Detailed and fast-paced JavaScript revision with practical projects  | JavaScript |
-| [Web-Scrapping](https://github.com/ASHUTOSH-SG/Web-Scrapping) | Tools for automated web scraping and data extraction. | JavaScript |
-
+| [HPC-Stack](https://github.com/ASHUTOSH-SG/HPC-Stack) | Slurm-powered Cloud HPC solution with GPU support and monitoring integration. | Slurm, HPC, Cloud, GPU |
+| [CDAC_HPC](https://github.com/ASHUTOSH-SG/CDAC_HPC) | Resources from PG Diploma: notes, scripts, labs, and MCQs for HPC System Administration. | Shell, HPC |
+| [NearNexusFrontEnd-REACT](https://github.com/ASHUTOSH-SG/NearNexusFrontEnd-REACT) | Responsive frontend for the NearNexus platform using React. | React, HTML, CSS |
+| [JS-Revision](https://github.com/ASHUTOSH-SG/JS-Revision) | Comprehensive JavaScript revision with practical projects. | JavaScript |
+| [GuessMyNumber](https://github.com/ASHUTOSH-SG/GuessMyNumber) | A retro-style game where the player guesses a number between 1 and 20. | JavaScript |
 
 ---
-
-Explore my repositories and projects to learn more about my work.
+Discover more in my repositories and feel free to reach out for collaboration or conversation.
