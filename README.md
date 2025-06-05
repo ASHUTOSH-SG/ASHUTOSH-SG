@@ -3,7 +3,7 @@
 <p align="center">Project Engineer at C-DAC Pune</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3F7CAC&center=true&vCenter=true&width=500&height=40&lines=HPC;High-Performance+Computing;Cloud+Computing;System+Monitoring;DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3F7CAC&center=true&vCenter=true&width=500&height=40&lines=High+Performance+Computing;Cloud+Computing;System+Monitoring;DevOps" alt="Typing SVG" />
 </p>
 
 ---
