@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ASHUTOSH-SG/ASHUTOSH-SG/main/assets/typing.gif" alt="Typing animation" width="300" />
-</p>
-
 <h1 align="center">Hi, I'm Ashutosh Gangurde 👨‍💻</h1>
 <p align="center">
   Project Engineer at C-DAC Pune | HPC | DevOps | Cloud | Monitoring  
@@ -21,6 +17,14 @@
 - 💾 **Storage:** NFS, SMB, Lustre, Ceph  
 - 💻 **Languages:** Python, Java  
 - 🔧 **Tools:** Git, Linux, Shell scripting  
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ASHUTOSH-SG&theme=github" alt="GitHub contribution graph" width="80%" />
+</p>
 
 ---
 
